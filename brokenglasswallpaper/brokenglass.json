@@ -1,0 +1,460 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "interval_intertitial": "5",
+      "startappid": "201669628",
+      "fan_inter": "612492376332507_612493222999089",
+      "fan_banner_native": "612492376332507_612492762999135",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "unityID": "3896203",
+      "unity_inter": "video",
+      "unity_banner": "bannerid",
+      "packagename": "mak.ad.wallpaperalienx"
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "title": "Ludo King",
+      "image": "https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id": 2,
+      "title": "Homescapes",
+      "image": "https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id": 3,
+      "title": "Minecraft",
+      "image": "https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+    "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+  "Data": [
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1geopewPV-PQFcJewxRVvQpNVgcJMbgTV",
+		"title": "Broken 001",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1y-dshMusBFjyTVotGgcrcE0a2aNRe5pO",
+		"title": "Broken 002",
+		"mimeType": "image/png"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1gRhxmEXMSA5Q-VMU9bQXemDHAFB3FGoC",
+		"title": "Broken 003",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1ag5q2Nm0UHbvwNqXhfGftPk33GSsoy3b",
+		"title": "Broken 004",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1BV-6ulxyszjUgEY2cx9LnaZW59BtgMPp",
+		"title": "Broken 005",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1gkcfFIBZA8GPWyyutjzNdt8-QjnygYde",
+		"title": "Broken 006",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1gbKUq1Id1dPrDf3Uhe8IRyBZqBilK3Z1",
+		"title": "Broken 007",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1ZJ4ZNRR9Uzvg7bQnDV32_0EeDoJLib19",
+		"title": "Broken 008",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1bZxGa7PwvJyvYovECI9as8nT6f8VfgOz",
+		"title": "Broken 009",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1l5vMM4jZNH58jYw9z9Fgcga-k7Ra4XA9",
+		"title": "Broken 010",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1bj3vgcllOXwvuMG_3LszTLJWkMCs8o2s",
+		"title": "Broken 011",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1iQ0docgJ9h2dBWfGDlelltw6sZo0ynvS",
+		"title": "Broken 012",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1JKFc7M96J8cRkQBBb_dBLrHHacOTWpZO",
+		"title": "Broken 013",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1LxerdVpOuiq1HAIL-IvB84d4vrbDGvBh",
+		"title": "Broken 014",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/16JwcUmRgxApsXoRwxfZTwZWlob_3nn4y",
+		"title": "Broken 015",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1kbGTZDeMWI82ey4Z64FwOxXDZ8ePT_7O",
+		"title": "Broken 016",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1jB_wjOygko-hRa5NJB1IRNQjV_ENKmjW",
+		"title": "Broken 017",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1gyaSTGzolr2CEPIhxMyV4Sisxw77NggY",
+		"title": "Broken 018",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1b3irbUu3tmWgx4c42sIqn445Zo9znW7Q",
+		"title": "Broken 019",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/18Cvd_mg5K-APm8fog-iGv9idIfxtlJvA",
+		"title": "Broken 020.jpeg",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1WlSpm-jGxSXLlXk4RmyLgcSjpHcasxrW",
+		"title": "Broken 021",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1cTo9dgVhfQR67nl7K3NIXhYJga_RssDJ",
+		"title": "Broken 022",
+		"mimeType": "image/png"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1W5l77osp38Vv_cNbgxs5OwxfkiMm8L7U",
+		"title": "Broken 023",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1cHJFw1xrSXwZKe5aI5Usxn3xq4_8ZQhV",
+		"title": "Broken 024",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1sIM4hHG6SXOp_ohdYq5VwvHcLwKdueuw",
+		"title": "Broken 025",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/17Ha7btAA3o6ykoUbnn_SXTikNql7fYlJ",
+		"title": "Broken 026",
+		"mimeType": "image/png"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1SRMCDcW4L0wgl0zj9XEk48xsspnHajh0",
+		"title": "Broken 027",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1iKgOUgYRA-D_8GgW0SDXrDdTbW4sYW8_",
+		"title": "Broken 028",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1MQm09URW9yNpfj9j8aKo1Y36HHUEeDEs",
+		"title": "Broken 029",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1xNuILdXhPxubTxh72sh_WyE4EQO4O5SK",
+		"title": "Broken 030",
+		"mimeType": "image/png"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1RFTH3jkBI88hrLGpP4UJCg91SsDCqaiP",
+		"title": "Broken 031",
+		"mimeType": "image/png"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1IjE_g8ifBxHeG9ahKyEAiXy0H0AA9Ov-",
+		"title": "Broken 032",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/14zB63POwB_4WxlRCiOfRAz9Y2C3TaaHW",
+		"title": "Broken 033",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1ABwFRV6Jp0Vt4udfAtbFX6qTSQDTM77D",
+		"title": "Broken 034",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1aQ-3B7M88TZjC8pFrylDbulVzhHM0EZn",
+		"title": "Broken 035",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1UK8Nl67IL2hhE3gRsu7KAMou65FjG0BF",
+		"title": "Broken 036",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1lY_DgDFS5QgBnpvKUvqa4qNnv0E4lE4q",
+		"title": "Broken 037",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1RM8stS-yndsERbTgCYriIMQVOJwMHrnH",
+		"title": "Broken 038",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1imHMv8CR2Uy0XiHDWXdkZu5Y6vfkz52k",
+		"title": "Broken 039",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/16ME0fuJ3A4VFrukI0tpyATHNvB6HKCxG",
+		"title": "Broken 040",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1SweCBswZW8ZbFMb-OkYWjfSXz5X3MnNr",
+		"title": "Broken 041",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1eK_fEeDrPidFsaS-JpwF0hhhPRwWkoi9",
+		"title": "Broken 042",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1DSF22RaTrUxhi5yUBYjo7UeLZxSp-TZO",
+		"title": "Broken 043",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1BvNNJ1B2pCs30d4JNOA7WTQ86aAaPyhQ",
+		"title": "Broken 044",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1Gf8GvfdC5CDKz2tmU7WmuXDFlgJNdxjz",
+		"title": "Broken 045",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1qoPE5qDb0Jt758pRhJePaMwm8mRveaVR",
+		"title": "Broken 046",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1te0klZBoMMlkAahYQIITxScRq3fVsSCp",
+		"title": "Broken 047",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1aZW0V7oare09A_P1zL-zVYuoFkLy_Ost",
+		"title": "Broken 048",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1_tjNh3txQ2PE6ZB5FE47grMCUx3sPh6i",
+		"title": "Broken 049",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1VQJCsthssoS7xeivsp9_eMVXmFwFaQ6L",
+		"title": "Broken 050",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1SA3B8Rs6_0eQj0lJO1wDKR4gU_9Kr-gY",
+		"title": "Broken 051",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1JuLVeM7mRKOYPuzY2mGZ1kzPYDjEukh3",
+		"title": "Broken 052",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1lkU5D_x3XRQOtviwANZNdbSsUfCwnDYm",
+		"title": "Broken 053",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1O24ovBKFmiekPWfrjMyFOCxu9RmZzo8M",
+		"title": "Broken 054",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/13Q5n2sk9IRhpzDC8TaUX2FAs-Z5G8Fkn",
+		"title": "Broken 055",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1wxRd5T2rbaZJXLK33zs-Kb-9pXULdavA",
+		"title": "Broken 056",
+		"mimeType": "image/png"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1ozNK1Jt3l6SuuX_afSM94kSjD-G6ku0g",
+		"title": "Broken 057",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1K66BjbZ9CTypjdrUzEwBC4bQhyWT2xtY",
+		"title": "Broken 058",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1OpSSa0WI-qwXvl-bZgO5i17vOc439z93",
+		"title": "Broken 059",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/18r665Qs9rC8AVBf4lGRGUaPfcTQSF68r",
+		"title": "Broken 060",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1nhT42_kCf6wqpPUJ568xe5PMwPuh1sJ4",
+		"title": "Broken 061",
+		"mimeType": "image/png"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1DsPYHvOOJ56qPOWYdQX4NR-Wc6quhbt3",
+		"title": "Broken 062",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1GwW3CkBkHVQJa4lc1acUQ_ZrdnjGRjeI",
+		"title": "Broken 063",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1McLDTvQZkiRiD-uM2o-rhiFDGxf8ZOdu",
+		"title": "Broken 064",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1Q7nt-S59_lyBxCszSoxXyfGfrRYhO5Vd",
+		"title": "Broken 065",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1mbXc02e5hsRJT12jwyKYYGMymxIz1MLn",
+		"title": "Broken 066",
+		"name_category": "Nature"
+	}
+]
+}

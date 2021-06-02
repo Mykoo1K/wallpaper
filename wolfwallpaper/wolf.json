@@ -1,0 +1,454 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "interval_intertitial": "5",
+      "startappid": "201669628",
+      "fan_inter": "612492376332507_612493222999089",
+      "fan_banner_native": "612492376332507_612492762999135",
+      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopub_inter": "24534e1901884e398f1253216226017e",
+      "unityID": "3896203",
+      "unity_inter": "video",
+      "unity_banner": "bannerid",
+      "packagename": "mak.ad.wallpaperalienx"
+    }
+  ],
+  "More": [
+    {
+      "id": 1,
+      "title": "Ludo King",
+      "image": "https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id": 2,
+      "title": "Homescapes",
+      "image": "https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id": 3,
+      "title": "Minecraft",
+      "image": "https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+    "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+  "Data": [
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1CwidI7MPP_KhyGOgKFjzdbo5_Uwedwi_",
+		"title": "wolf 001",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/185iiXsqGwQsg42FV5o6LCsOQrbmmzjd5",
+		"title": "wolf 002",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1MY71nRbjPu36KLuAsoeIKxjfNBWbbU8c",
+		"title": "wolf 003",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1SfVggSiYyQgv7QGztK06dmpspXJ2y6o9",
+		"title": "wolf 004",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/13afNMZ1FYe-ny07OQyUbhCJa6BVKRH0v",
+		"title": "wolf 005",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1Wdaa8o5DktJvY2yczjR5EDoIBVr2B_gG",
+		"title": "wolf 006",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1boa66aDDMC-VfelL7Rw43YEtaDgUcgM6",
+		"title": "wolf 007",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1yyim6AXmxZW36vlZSalLsg9dRT7JoEqs",
+		"title": "wolf 008",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/10ES86AGcq24ZJKVKwlRTpMlfmwQNzKoO",
+		"title": "wolf 009",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1C7s39uU4jqWeu5Qzh6xr9r551jrog1F9",
+		"title": "wolf 010",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1XauHlzZg_O3A53v1FTXMLijzIRRx9aNK",
+		"title": "wolf 011",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1b6qlM7NwRoGMBMtGHjEHRkqA09kOjonB",
+		"title": "wolf 012",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/10Sgr1H4QU7nX3yjGSDyVi8D0vmPBnHjr",
+		"title": "wolf 012",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1BxxxLH6E41qhc33HtoKI8SwPrneeEpkg",
+		"title": "wolf 013",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1FTVgInQ53-bME5myj8_5Kt-5lXELrsMS",
+		"title": "wolf 014",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1JApVopGYY_8S44VcLEU0DuIW5enbSvpN",
+		"title": "wolf 014",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1kdA-PAc6hsXCDon3pKlOIPyKWSq79ean",
+		"title": "wolf 015",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1BkI9gba-f9rFpOXIbgm8tayVAI08v6Tx",
+		"title": "wolf 016",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/16mI2Pj12ojaqGlMRVbvu7u6GI9GhMbd1",
+		"title": "wolf 017",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1TsUBCzlrnktriOqkjRgD3Wb67NMroO4Q",
+		"title": "wolf 018",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1ZRGRvyQDiYx6k2LzRkqcWbnkGTbuQzpj",
+		"title": "wolf 019",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1dBjeh5chqTxBIf4I5KEIvrQS4okoG4kT",
+		"title": "wolf 019",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1ciyyQPXy1UaHBLNaDBkz0fvE7cndkSnk",
+		"title": "wolf 020",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/10Gjw4I6bvxYmjZ0d-DUUQpfm7J3Dhm5J",
+		"title": "wolf 021",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1OaULLm4cTix3quXFCL-oTPtLGTH_Y--_",
+		"title": "wolf 022",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1ydSePoq-I4Nt9xbUjIEo2VDzKYXewLtx",
+		"title": "wolf 023",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1qC7Ph3yFHu1VYKb7NhQrKsGBP3dl5-ZZ",
+		"title": "wolf 024",
+		"mimeType": "image/png"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1GR8BK8CPbzODY7OI9uxLEa-sqtsa_JTQ",
+		"title": "wolf 025",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1gveX_7JQ15LucZxPuBGZanccmpoUqTRV",
+		"title": "wolf 026",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1ONOI7aE72IhDKU_1GMj3Dz17x6_Rb6Kb",
+		"title": "wolf 027",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1jC1_-XvhsgrSZxCqUPsbgY__s19ipqT8",
+		"title": "wolf 028",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1g0rBORnFpUwKCtr7fk2guNB_nkCEAwdS",
+		"title": "wolf 029",
+		"mimeType": "image/png"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1dq-2yRqGq-X5V_O3RW5yNg8IDtDj-S2-",
+		"title": "wolf 030",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1TY_UypCPr1pjT7NSDSqRCXlMBAiLc5YE",
+		"title": "wolf 031",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1mpvXVlfCB6S6NdodY_H-YAucosnMm8L-",
+		"title": "wolf 032",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1p-djZtJpfgD5QMfsou7Iqd7HK1k81RVX",
+		"title": "wolf 033",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1tDtoWVK7vKUiRPpEljn2P9S-G47byVhb",
+		"title": "wolf 034",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1b0jMWiFZOrDpCjP--UcBzczol357QH2f",
+		"title": "wolf 035",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1u9UE03U_uV6jtBd5-gFj5dQAWq5f_HmV",
+		"title": "wolf 036",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1un91HT4DIwr0Y3NdmD_N7rCyfatH1j-6",
+		"title": "wolf 037",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1dqmVnulexAILC8Hrhvibsxw2OzsTPQF1",
+		"title": "wolf 038",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1175TS1_74DRCEvA3NJjlHPPLm37sfR9l",
+		"title": "wolf 039",
+		"mimeType": "image/png"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1KARl71knRUJHx9qUR6EvWpKawifCaefX",
+		"title": "wolf 040",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1OM4hmJjxrmzXWM9YeS9GRLxZHzji-GyJ",
+		"title": "wolf 041",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1OZS9cC3jhiqMQpL9WICpzYKSI7i6Eqmt",
+		"title": "wolf 042",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1WslvJv8Z0vk_oSoec8IcAoFc4YMuBWyH",
+		"title": "wolf 043",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1zP0vQ-51ximd8O_n-vhBxig3lpb6b7s3",
+		"title": "wolf 044",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1NZXT0qBlCWeYkNn-HzKDLCNH5LHJ50FW",
+		"title": "wolf 045",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1zSldYBQG9B6swkKqxSu98dNAYN7tHBuO",
+		"title": "wolf 046",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1JsXcSC4bESkApauWzr-blspdT2xTVp4Z",
+		"title": "wolf 047",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1bx5A9CWmKi74XoRmAlK3iahhrnA0np53",
+		"title": "wolf 048",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1Z-g6cceLujUmw2GBJRKpel3awCmKM8hI",
+		"title": "wolf 049",
+		"mimeType": "image/png"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1o3nqpqCls47OfQoQY5TH-Sq6eJSdFwA2",
+		"title": "wolf 050",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1ghTA-W-YQ_aUBH8SOsJWjGC0ZJyCrrOq",
+		"title": "wolf 051",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1dHP9_ARnJYDWLxlILUEIZu4Ta4HjN48U",
+		"title": "wolf 052",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1MG9Sa3Ngndk9J7594E91cY3w2vnXd5US",
+		"title": "wolf 053",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1SHt5E307g3_SQVHc9psA-7aMbqL1NacI",
+		"title": "wolf 054",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1ctR_hkxowBbc06msjzu5v2oRQPtom7oQ",
+		"title": "wolf 055",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1rC0-bUOZSxOTtke9jV74-SwrygXtdvsQ",
+		"title": "wolf 056",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1I13p3tbhvOtUPSc7_Yyi9ElkHE6fpxZj",
+		"title": "wolf 057",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1Y_LqqRTE8-xrUoBdRX237s3gjVKbT2iH",
+		"title": "wolf 058",
+		"mimeType": "image/png"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1Ufm90cR0fAST36BE20IriNEIdFkutylJ",
+		"title": "wolf 059",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1GM8kV1NmYdi4oQbpehG6DSTrOFOSmdEC",
+		"title": "wolf 060",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/1cjKtwIjK0GoPmgbHAs-ZTn-UrZChBpV8",
+		"title": "wolf 061",
+		"name_category": "Nature"
+	},
+	{
+		"id": 1,
+		"image": " https://lh3.googleusercontent.com/d/17i8opxyYRXUL3SWcdoPToTWjOHd-Xxct",
+		"title": "wolf 062",
+		"name_category": "Nature"
+	}
+]
+}
